@@ -12,3 +12,11 @@
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
 
+[[redirects]]
+  from = "/osuny"
+  to = "https://www.osuny.org"
+
+[[redirects]]
+  from = "/actualites/netlify-database/"
+  to = "/actualites/2026-04-28-netlify-database-is-now-available/"
+
